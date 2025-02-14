@@ -1,0 +1,79 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/PhateValleyman/umbrella_module/commit/a72aaa80b1d85610ad3fcfcf9fead130f5bb4c0d\"><strong>a</strong>72aaa80b1d85610ad3fcfcf9fead130f5bb4c0d</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/PhateValleyman/ccat/commit/ab7bdc0661cc6f9efd737232708e51b54c9ce995\"><strong>ab</strong>7bdc0661cc6f9efd737232708e51b54c9ce995</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/PhateValleyman/misc-and-termux/commit/d328fd9296615b898f75249d25e212795fd8d6dc\">d328fd9</a>\n- <a href=\"https://github.com/PhateValleyman/elinks/commit/f219d67aa503c2bf6b1d9548524e3de0e6ec20f4\">f219d67</a>\n- <a href=\"https://github.com/PhateValleyman/nsa320-package-sources/commit/172168b34f42878bdac5900d5fc1b19e59e48946\">172168b</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"modified:\".",
+    "body": "My favorite commit message words are:\n\n1. modified: (used 308 times)\n2. new (used 218 times)\n3. file: (used 218 times)\n4. changed: (used 205 times)\n5. deleted: (used 51 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 5 my own repositories.",
+    "body": "- <a href=\"https://github.com/PhateValleyman/Umbrella_bootstrap\">PhateValleyman/Umbrella_bootstrap</a>\n- <a href=\"https://github.com/PhateValleyman/umbrella_module\">PhateValleyman/umbrella_module</a>\n- <a href=\"https://github.com/PhateValleyman/.aliases\">PhateValleyman/.aliases</a>\n- <a href=\"https://github.com/PhateValleyman/nano-ndk\">PhateValleyman/nano-ndk</a>\n- <a href=\"https://github.com/PhateValleyman/umbrella-apps\">PhateValleyman/umbrella-apps</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/PhateValleyman/termux-app/commit/09c7b95927808d681fc928ce9607f3bfa5085847\">09c7b95</a>\n- <a href=\"https://github.com/PhateValleyman/termux-app/commit/66813dd8e7593338f05644ebdd80c2ed92578130\">66813dd</a>\n- <a href=\"https://github.com/PhateValleyman/android-ndk-toolchain-setup/commit/3a8d26f9cdb361f46ab31c1c588ab3b211b40b0e\">3a8d26f</a>\n- <a href=\"https://github.com/PhateValleyman/android-ndk-toolchain-setup/commit/fb4fd3d0a88f304a091c6c7289ee5c9965d86394\">fb4fd3d</a>\n- <a href=\"https://github.com/PhateValleyman/ls-go/commit/827290db88fec2456a553ba54f0c13486734c980\">827290d</a>\n- <a href=\"https://github.com/PhateValleyman/ls-go/commit/9ba07369c05343c4a35c71e5260e9abc9e6fedfa\">9ba0736</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/PhateValleyman/dh-make/commit/df35f289c51787ccc42be415c654ea000d57bf83\">df35f28</a>\n- <a href=\"https://github.com/PhateValleyman/dh-make/commit/b79b8c615e88c94d480bc28bfc7b57b6a0e88b0a\">b79b8c6</a>\n- <a href=\"https://github.com/PhateValleyman/termux-app/commit/7fa3c77b85ef720e00de54e4d1806c70cf6cd2b7\">7fa3c77</a>\n- <a href=\"https://github.com/PhateValleyman/android-ndk-toolchain-setup/commit/e5dc8f01bd24c4862a5f05539f74460930b97b04\">e5dc8f0</a>\n- <a href=\"https://github.com/PhateValleyman/android-ndk-toolchain-setup/commit/3909e208c048fbec61cb302be14ce3169a0bceec\">3909e20</a>\n- <a href=\"https://github.com/PhateValleyman/bash-in-magisk/commit/56e8667fc0d26492baa15a1797b8fb95635475ad\">56e8667</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/PhateValleyman/PhateValleyman/commit/91025a873c99a355b9945835e53f800102a94591\">91025a8</a>\n- <a href=\"https://github.com/PhateValleyman/github-readme-stats/commit/7bd791cecac754d36211675a9edf56f41c8db94b\">7bd791c</a>\n- <a href=\"https://github.com/PhateValleyman/github-readme-stats/commit/4273565a8e7a7499dd75f4aaefe13486c83e46dd\">4273565</a>\n- <a href=\"https://github.com/PhateValleyman/github-readme-stats/commit/962d07ba95cdf5fb4a58cb30a6de96dcc2b395f1\">962d07b</a>\n- <a href=\"https://github.com/PhateValleyman/github-readme-stats/commit/20d294706b0c88361be498fceacc26c61d5178f3\">20d2947</a>\n- <a href=\"https://github.com/PhateValleyman/github-readme-stats/commit/77a5eac805a0a2cef50f0b4a7595820ab9bcb0a7\">77a5eac</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
