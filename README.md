@@ -17,4 +17,5 @@
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <!-- my-badges end -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhateValleyman&layout=donut)](https://github.com/PhateValleyman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhateValleyman&layout=donut&langs_count=8)](https://github.com/PhateValleyman/github-readme-stats)
+ 
