@@ -18,7 +18,7 @@
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
-    "image": "https://avatars.githubusercontent.com/u/25023548?v=4"
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
     "id": "epic-commit",
@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"modified:\".",
-    "body": "My favorite commit message words are:\n\n1. modified: (used 308 times)\n2. new (used 218 times)\n3. file: (used 218 times)\n4. changed: (used 205 times)\n5. deleted: (used 51 times)",
+    "body": "My favorite commit message words are:\n\n1. modified: (used 308 times)\n2. new (used 218 times)\n3. file: (used 218 times)\n4. changed: (used 205 times)\n5. update (used 52 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -75,5 +75,12 @@
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/PhateValleyman/PhateValleyman/commit/91025a873c99a355b9945835e53f800102a94591\">91025a8</a>\n- <a href=\"https://github.com/PhateValleyman/github-readme-stats/commit/7bd791cecac754d36211675a9edf56f41c8db94b\">7bd791c</a>\n- <a href=\"https://github.com/PhateValleyman/github-readme-stats/commit/4273565a8e7a7499dd75f4aaefe13486c83e46dd\">4273565</a>\n- <a href=\"https://github.com/PhateValleyman/github-readme-stats/commit/962d07ba95cdf5fb4a58cb30a6de96dcc2b395f1\">962d07b</a>\n- <a href=\"https://github.com/PhateValleyman/github-readme-stats/commit/20d294706b0c88361be498fceacc26c61d5178f3\">20d2947</a>\n- <a href=\"https://github.com/PhateValleyman/github-readme-stats/commit/77a5eac805a0a2cef50f0b4a7595820ab9bcb0a7\">77a5eac</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/PhateValleyman/PhateValleyman/commit/e6b2fbcff3f96335cc00e2e28bb8c57b5d074c0c\">e6b2fbc</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   }
 ]
