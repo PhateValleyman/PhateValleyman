@@ -2,7 +2,7 @@
 <strong>Noční běs</strong>
 <br><br>
 
-Commits:
+Příspěvky:
 
 - <a href="https://github.com/PhateValleyman/termux-app/commit/09c7b95927808d681fc928ce9607f3bfa5085847">09c7b95</a>
 - <a href="https://github.com/PhateValleyman/termux-app/commit/66813dd8e7593338f05644ebdd80c2ed92578130">66813dd</a>
