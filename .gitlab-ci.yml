@@ -1,0 +1,20 @@
+# soubor: .gitlab-ci.yml
+stages:
+  - badges
+
+my-badges:
+  stage: badges
+  image: node:22
+  # Spouští se jen ručně z UI GitLabu (odpovídá workflow_dispatch)
+  when: manual
+  script:
+    # Vypíše verzi node a nainstaluje nástroj
+    - node -v
+    - npm install -g update-my-badges
+    # Spustí update odznaků (náhrada za `${{ github.repository_owner }}`)
+    - npx update-my-badges "$CI_PROJECT_NAMESPACE"
+  variables:
+    # Token pro autentizaci k API (musí být nastavený v GitLab Settings → CI/CD → Variables)
+    GITHUB_TOKEN: $GITHUB_TOKEN
+  only:
+    - main
