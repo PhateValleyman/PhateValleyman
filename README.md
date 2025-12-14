@@ -4,7 +4,7 @@
 
 
 <a href="#">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sevtinge&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PhateValleyman&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 </a>
 
 ### 💻 Environment 
@@ -28,9 +28,9 @@
 
 ### 📫 Contact me 
 
- [![X](https://img.shields.io/twitter/follow/sevtinge?style=flat-square&color=000000&label=%40Sevtinge&logo=x&logoColor=FFFFFF&labelColor=000000)](https://x.com/nedJonas)
+ [![X](https://img.shields.io/twitter/follow/PhateValleyman?style=flat-square&color=000000&label=%40PhateValleyman&logo=x&logoColor=FFFFFF&labelColor=000000)](https://x.com/nedJonas)
 
- [![Telegram](https://img.shields.io/badge/%40Sevtinge_PM_Bot-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/PhateValleyman) 
+ [![Telegram](https://img.shields.io/badge/%40PhateValleyman-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/PhateValleyman) 
 
 
 
