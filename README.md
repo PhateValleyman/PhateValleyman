@@ -2,6 +2,38 @@
 
 ![Header](./header.png)
 
+
+<a href="#">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sevtinge&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+</a>
+
+### 💻 Environment 
+
+[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-13/) 
+
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-FF6900?style=flat-square&logo=ubuntu&logoColor=FFFFFF&labelColor=FF6900)](https://ubuntu.com) 
+
+[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10) 
+
+
+### 📱 Devices 
+
+[![Redmi Note 11](https://img.shields.io/badge/Redmi%20Note%2011%20-FF6900?style=flat-square&logo=redmi&logoColor=FFFFFF&labelColor=FF6900)](https://en.wikipedia.org/wiki/Redmi_Note_11)
+
+[![Nvidia Shield Tablet](https://img.shields.io/badge/Nvidia%20Shield%20Tablet-FF6900?style=flat-square&logo=nvidia&logoColor=FFFFFF&labelColor=FF6900)](https://en.wikipedia.org/wiki/Nvidia_Shield_Tablet)
+
+[![ZyXEL NSA320](https://img.shields.io/badge/ZyXEL%20NSA320-FBDD00?style=flat-square&logo=zyxel&logoColor=FFFFFF&labelColor=FBDD00)](https://www.smallnetbuilder.com/nas/nas-reviews/zyxel-nsa320-2-bay-power-media-server-reviewed/)
+
+
+
+### 📫 Contact me 
+
+ [![X](https://img.shields.io/twitter/follow/sevtinge?style=flat-square&color=000000&label=%40Sevtinge&logo=x&logoColor=FFFFFF&labelColor=000000)](https://x.com/nedJonas)
+
+ [![Telegram](https://img.shields.io/badge/%40Sevtinge_PM_Bot-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/PhateValleyman) 
+
+
+
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
